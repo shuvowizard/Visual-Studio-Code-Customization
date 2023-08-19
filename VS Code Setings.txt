@@ -1,0 +1,161 @@
+/*================================
+ VS Code Settings
+================================*/
+
+{
+  "files.associations": {
+    "*html": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName} - It's ShuVo",
+  "editor.fontFamily": "'cascadia code', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "files.autoSave": "afterDelay",
+  // "editor.hover.enabled": false,
+  "editor.cursorBlinking": "expand",
+  "editor.guides.bracketPairs": "active",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": {},
+  //! Comments ----
+  "editor.tokenColorCustomizations": {
+    "comments": "#17ff49"
+  },
+  //! Live Server ----
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  // "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  //! Prettier Formate Config ----
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.format.extraLiners": "",
+  //! phpfmt Formate Config ----
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  //! Code runner Config ----
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.clearPreviousOutput": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  //! ----
+  "php.validate.executablePath": "",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  //! VS Code Theme Customization ----
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3",
+    "titleBar.activeBackground": "#474787",
+    "titleBar.activeForeground": "#ffffff"
+    // "titleBar.border": "#32fc0a",
+    // "sideBar.border": "#4bfc0a",
+    // "activityBar.activeBorder": "#0afc12",
+    // "activityBar.border": "#0afc22",
+  },
+  "window.zoomLevel": -1,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  // "editor.linkedEditing": true,
+  // "files.autoSaveDelay": 10,
+  // "prettier.proseWrap": "always",
+  // "prettier.arrowParens": "avoid"
+}
+
+
+
+
+/*================================
+ VS Code Extention
+================================*/
+01. C/C++ 
+02. ESLint
+03. Beautify 
+04. CSS Peek
+05. CodeSnap
+06. Inline fold
+07. Live Server
+08. Code Runner
+09. vscode-icons
+10. Auto Close Tag
+11. indent-rainbow
+12. open in browser
+13. PHP IntelliSense
+14. Output Colorizer
+15. Auto Rename Tag
+16. Better Comments
+17. HTML CSS Support
+19. Material Icon Theme
+20. phpfmt - PHP formatter
+21. PHP Awesome Snippets
+22. Prettier - Code formatter
+23. Laravel Extra Intellisense
+24. GitHub Markdown Preview 
+25. Bootstrap 5 Quick Snippets
+26. JavaScript (ES6) code snippets 
+27. IntelliSense for CSS class names in HTML
+
+
+
+
+/*================================
+ VS Code Themes
+================================*/
+01. Vue Theme
+02. Cyberpunk
+03. Andromeda 
+04. Ayu (Theme)
+05. SynthWave '84
+06. Dracula Official
+07. Material Theme
+08. Shades of Purple
+09. Cobalt2 Theme Official
+10. Winter is Coming Theme
+11. One Dark Pro (hasin haydar)
+
